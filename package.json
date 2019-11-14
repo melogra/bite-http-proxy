@@ -1,0 +1,25 @@
+{
+  "name": "bite-http-proxy",
+  "description": "take a bite of  node-http-proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "harmon": "^1.4.3",
+    "http-proxy": "^1.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melogra/bite-http-proxy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melogra/bite-http-proxy/issues"
+  },
+  "homepage": "https://github.com/melogra/bite-http-proxy#readme"
+}
