@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "harmon": "^1.4.3",
-    "http-proxy": "^1.18.0"
+    "http-proxy": "^1.18.1"
   },
   "devDependencies": {},
   "scripts": {
